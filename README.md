@@ -24,7 +24,7 @@ This project aims to predict the likelihood of heart disease using machine learn
 
 ## 📁 Dataset
 
-The dataset used is the [UCI Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease) (or mention your source if different).
+The dataset used is attached to repository.
 
 ---
 
